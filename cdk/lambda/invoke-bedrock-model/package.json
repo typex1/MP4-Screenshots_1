@@ -1,0 +1,9 @@
+{
+  "name": "invoke-bedrock-model",
+  "version": "1.0.0",
+  "description": "Lambda function to invoke Bedrock model for the solution",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1450.0"
+  }
+}
