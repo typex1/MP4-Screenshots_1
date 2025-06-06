@@ -1,0 +1,7 @@
+{
+  "name": "prepare-input",
+  "version": "1.0.0",
+  "description": "Lambda function to prepare input for the solution",
+  "main": "index.js",
+  "dependencies": {}
+}
